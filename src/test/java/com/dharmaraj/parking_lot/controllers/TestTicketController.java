@@ -28,10 +28,10 @@ import com.dharmaraj.parking_lot.models.ParkingLot;
 import com.dharmaraj.parking_lot.models.ParkingSpot;
 import com.dharmaraj.parking_lot.models.ParkingSpotStatus;
 import com.dharmaraj.parking_lot.models.VehicleType;
-import com.dharmaraj.parking_lot.respositories.GateRepository;
-import com.dharmaraj.parking_lot.respositories.ParkingLotRepository;
-import com.dharmaraj.parking_lot.respositories.TicketRepository;
-import com.dharmaraj.parking_lot.respositories.VehicleRepository;
+import com.dharmaraj.parking_lot.repositories.GateRepository;
+import com.dharmaraj.parking_lot.repositories.ParkingLotRepository;
+import com.dharmaraj.parking_lot.repositories.TicketRepository;
+import com.dharmaraj.parking_lot.repositories.VehicleRepository;
 import com.dharmaraj.parking_lot.services.TicketService;
 import com.dharmaraj.parking_lot.strategies.assignment.SpotAssignmentStrategy;
 

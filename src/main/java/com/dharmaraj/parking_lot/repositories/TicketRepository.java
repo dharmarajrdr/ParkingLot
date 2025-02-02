@@ -1,4 +1,4 @@
-package com.dharmaraj.parking_lot.respositories;
+package com.dharmaraj.parking_lot.repositories;
 
 import com.dharmaraj.parking_lot.models.*;
 

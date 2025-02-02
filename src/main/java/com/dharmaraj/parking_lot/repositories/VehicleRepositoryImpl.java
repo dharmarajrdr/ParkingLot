@@ -1,4 +1,4 @@
-package com.dharmaraj.parking_lot.respositories;
+package com.dharmaraj.parking_lot.repositories;
 
 import java.util.HashMap;
 import java.util.Map;
